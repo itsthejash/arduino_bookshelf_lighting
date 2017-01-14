@@ -3,7 +3,7 @@ Project code for controlling the bookshelf lighting
 
 
 </table>
-<h2>Shopping List</h2>
+<h2>Parts List</h2>
 <table>
   <thead>
 	<tr>
